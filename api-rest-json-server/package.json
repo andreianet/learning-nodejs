@@ -1,0 +1,14 @@
+{
+  "name": "api-rest-json-server",
+  "version": "1.0.0",
+  "description": "API Rest-Json Server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch games.json --port 3000"
+  },
+  "author": "Andreia Cardoso",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
